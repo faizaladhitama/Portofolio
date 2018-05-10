@@ -1,0 +1,24 @@
+.about-list{
+	display:none;
+}
+
+.about{
+	margin-top:2%;
+}
+
+section, div{
+	padding-bottom:1%;
+}
+
+section h3{
+	padding-left:1%;
+	cursor:pointer;
+}
+
+.introduction{
+	padding-top:4%;
+}
+
+ul li{
+	font-size:24px;
+}
