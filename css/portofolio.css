@@ -2,8 +2,14 @@
 	display:none;
 }
 
-.about{
+#about{
 	margin-top:2%;
+	margin-left:0px;
+	margin-right:0px;
+}
+
+.about{
+
 }
 
 section, div{

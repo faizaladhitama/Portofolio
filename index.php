@@ -137,7 +137,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="about col-md-4">
+				<div class="quote col-md-4">
 					<h2 class="text-center">Random Quote</h2>
 					<blockquote class="blockquote">
 						<p class="mb-0"></p>
