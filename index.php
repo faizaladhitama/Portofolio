@@ -113,7 +113,9 @@
 						<h3>Work Experiences</h3>
 						<div class="work-list about-list">
 							<ul>
+								<li>Kakak Asuh Web Programming and Design - 4 Month (Sept 2017 - Dec 2017) - Lembaga Asistem Fasilkom UI</li>
 								<li>Game Developer Intern - 3 month (Dec 2017 - Feb 2018) - Nemob</li>
+								<li>Kakak Asuh Software Engineering and Intelligent Systems - 4 Month (Feb 2018 - June 2018) - Lembaga Asistem Fasilkom UI</li>
 							</ul>
 						</div>
 					</div>
@@ -123,6 +125,7 @@
 							<ul>
 								<li>Academic Staff - 2016 - Comunity Development BEM Fasilkom UI</li>
 								<li>Logistic Staff - 2016 - Rumbel BEM UI</li>
+								<li>Mentor of OKK UI - 2016 - BEM UI</li>
 								<li>Logistic Staff - 2017 - Even Term Graduation BEM Fasilkom UI</li>
 							</ul>
 						</div>
