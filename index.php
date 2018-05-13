@@ -41,11 +41,11 @@
 				<h2>Backend Developer</h2>
 			</div>
 			<div class="row" id="about">
-				<div class="about bg-secondary col-md-8">
+				<div class="about bg-success text-white col-md-5">
 					<h2 class="text-center">Personal Information</h2>
 					<div class="skills">
 						<h3>Skills</h3>
-						<div class="skill-list about-list"> 
+						<div class="skills-list about-list"> 
 							<ul>
 								<li>Python 3.6</li>
 								<li>Django Framework</li>
@@ -72,7 +72,7 @@
 					</div>
 					<div class="educations">
 						<h3>Education</h3>
-						<div class="education-list about-list">
+						<div class="educations-list about-list">
 							<ul>
 								<li>
 									University of Indonesia</br>
@@ -83,7 +83,7 @@
 					</div>
 					<div class="courses">
 						<h3>Courses</h3>
-						<div class="course-list about-list">
+						<div class="courses-list about-list">
 							<ul>
 								<li>Foundations of Programming</li>
 								<li>Discrete Mathematics</li>
@@ -111,7 +111,7 @@
 					</div>
 					<div class="works">
 						<h3>Work Experiences</h3>
-						<div class="work-list about-list">
+						<div class="works-list about-list">
 							<ul>
 								<li>Kakak Asuh Web Programming and Design - 4 Month (Sept 2017 - Dec 2017) - Lembaga Asistem Fasilkom UI</li>
 								<li>Game Developer Intern - 3 month (Dec 2017 - Feb 2018) - Nemob</li>
@@ -121,7 +121,7 @@
 					</div>
 					<div class="committees">
 						<h3>Committees</h3>
-						<div class="committee-list about-list">
+						<div class="committees-list about-list">
 							<ul>
 								<li>Academic Staff - 2016 - Comunity Development BEM Fasilkom UI</li>
 								<li>Logistic Staff - 2016 - Rumbel BEM UI</li>
@@ -132,7 +132,7 @@
 					</div>
 					<div class="volunteers">
 						<h3>Volunteers</h3>
-						<div class="volunteer-list about-list">
+						<div class="volunteers-list about-list">
 							<ul>
 								<li>SBMPTN TPA Teacher - 2017 - BETIS Fasilkom UI</li>
 								<li>SBMPTN Student Mentor - 2017 - BETIS Fasilkom UI</li>
@@ -140,7 +140,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="quote col-md-4">
+				<div class="about quote col-md-3 bg-dark text-white">
 					<h2 class="text-center">Random Quote</h2>
 					<blockquote class="blockquote">
 						<p class="mb-0"></p>
@@ -150,6 +150,16 @@
 							</cite>
 						</footer>
 					</blockquote>
+				</div>
+				<div class="about interest col-md-3 bg-primary text-white">
+					<h2 class="text-center">Current Interests</h2>
+					<ul>
+						<li>Machine Learning</li>
+						<li>Artificial Intelligence</li>
+						<li>React or React-Native</li>
+						<li>GoLang</li>
+						<li>Ruby on Rails</li>
+					</ul>
 				</div>
 			</div>
 		</section>
@@ -165,7 +175,7 @@
 					<li data-target="#demo" data-slide-to="3"></li>
 				</ul>
 
-			    <div class="carousel-inner">
+			    <div class="carousel-inner bg-dark">
 					<div class="carousel-item active">	
 						<img src="assets/img/catur-jawa.png" id="catur-jawa-img" alt="Catur Jawa" witdh="600" height="600" class="img-fluid"/>
 					</div>
@@ -180,10 +190,10 @@
 					</div>
 				</div>
 
-				<a class="carousel-control-prev" href="#demo" data-slide="prev">
+				<a class="carousel-control-prev text-dark" href="#demo" data-slide="prev">
 					<span class="carousel-control-prev-icon"></span>
 				</a>
-				<a class="carousel-control-next" href="#demo" data-slide="next">
+				<a class="carousel-control-next text-dark" href="#demo" data-slide="next">
 					<span class="carousel-control-next-icon"></span>
 				</a>
 				

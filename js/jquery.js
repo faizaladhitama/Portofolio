@@ -1,38 +1,11 @@
 $(document).ready(function () {
-	$("#catur-jawa-img").on('click','img',function () {
-		$('#catur-jawa-modal').modal('show'); 
-	});
-
-	$("#catur-jawa-img").on('click','img',function () {
-		$('#catur-jawa-modal').modal('show'); 
-	});
-
-	$("#catur-jawa-img").on('click','img',function () {
-		$('#catur-jawa-modal').modal('show'); 
-	});
-
-	$(".skills").on('click','h3',function () {
-		$('.skill-list').toggle(); 
-	});
-
-	$(".educations").on('click','h3',function () {
-		$('.education-list').toggle(); 
-	});
-
-	$(".courses").on('click','h3',function () {
-		$('.course-list').toggle(); 
-	});
-
-	$(".works").on('click','h3',function () {
-		$('.work-list').toggle(); 
-	});
-	
-	$(".committees").on('click','h3',function () {
-		$('.committee-list').toggle(); 
-	});
+	$(".about").children('div').each(function(){
+		var cls = "." + $(this).attr('class');
+		var cls_list = cls + "-list";
 		
-	$(".volunteers").on('click','h3',function () {
-		$('.volunteer-list').toggle(); 
+		$(cls).on('click','h3',function () {
+			$(cls_list).toggle(); 
+		});		
 	});
 
 	fetch("backend.php")
@@ -40,6 +13,7 @@ $(document).ready(function () {
 			return response.json();	
 		})
 		.then(function(data){
+			data = data[Math.floor(Math.random()*data.length)];			
 			$('blockquote p').html(data.quote);
 			$('blockquote cite').html(data.author);
 		});
