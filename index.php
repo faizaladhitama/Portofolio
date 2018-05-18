@@ -351,6 +351,110 @@
 								Hello
 							</div>
 						</div>
+						<div class="chat-item text-right">
+							<div class="sender-name">
+								Faizal
+							</div>
+							<div class="sender-message">
+								Hello namaku xxx
+							</div>
+						</div>
+						<div class="chat-item">
+							<div class="sender-name">
+								Faizal
+							</div>
+							<div class="sender-message">
+								Hello
+							</div>
+						</div>
+						<div class="chat-item text-right">
+							<div class="sender-name">
+								Faizal
+							</div>
+							<div class="sender-message">
+								Hello namaku xxx
+							</div>
+						</div>
+						<div class="chat-item">
+							<div class="sender-name">
+								Faizal
+							</div>
+							<div class="sender-message">
+								Hello
+							</div>
+						</div>
+						<div class="chat-item text-right">
+							<div class="sender-name">
+								Faizal
+							</div>
+							<div class="sender-message">
+								Hello namaku xxx
+							</div>
+						</div>
+						<div class="chat-item">
+							<div class="sender-name">
+								Faizal
+							</div>
+							<div class="sender-message">
+								Hello
+							</div>
+						</div>
+						<div class="chat-item">
+							<div class="sender-name">
+								Faizal
+							</div>
+							<div class="sender-message">
+								Hello
+							</div>
+						</div>
+						<div class="chat-item text-right">
+							<div class="sender-name">
+								Faizal
+							</div>
+							<div class="sender-message">
+								Hello namaku xxx
+							</div>
+						</div>
+						<div class="chat-item">
+							<div class="sender-name">
+								Faizal
+							</div>
+							<div class="sender-message">
+								Hello
+							</div>
+						</div>
+						<div class="chat-item text-right">
+							<div class="sender-name">
+								Faizal
+							</div>
+							<div class="sender-message">
+								Hello namaku xxx
+							</div>
+						</div>
+						<div class="chat-item">
+							<div class="sender-name">
+								Faizal
+							</div>
+							<div class="sender-message">
+								Hello
+							</div>
+						</div>
+						<div class="chat-item text-right">
+							<div class="sender-name">
+								Faizal
+							</div>
+							<div class="sender-message">
+								Hello namaku xxx
+							</div>
+						</div>
+						<div class="chat-item">
+							<div class="sender-name">
+								Faizal
+							</div>
+							<div class="sender-message">
+								Hello
+							</div>
+						</div>
 					</div>
 					<div class="chat-bottom row">
 						<div class="chat-write col-md-7">

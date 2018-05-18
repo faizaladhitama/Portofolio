@@ -47,5 +47,9 @@ ul li{
 
 .chat-section{
 	margin-bottom:-2%;
-	max-height: 400px;
+}
+
+.chat-history{
+	height:300px;
+	overflow-y: scroll;
 }

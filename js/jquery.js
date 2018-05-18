@@ -8,6 +8,11 @@ $(document).ready(function () {
 		});		
 	});
 
+	$(".chat-toggle").on("click",function(){
+		console.log("click");
+		$(".chat-box").toggle();
+	});
+
 	fetch("backend.php")
 		.then(function(response){
 			return response.json();	
