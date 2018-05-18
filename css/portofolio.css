@@ -28,3 +28,12 @@ section h3{
 ul li{
 	font-size:24px;
 }
+
+.chat-toggle{
+	font-size:1.1em;
+}
+
+.chat-section{
+	margin-bottom:-2%;
+	max-height: 400px;
+}

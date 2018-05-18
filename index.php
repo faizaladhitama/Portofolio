@@ -323,4 +323,36 @@
 			2018 © Faizal Adhitama Prabowo.
 		</div>
 	</footer>
+
+		<!--Chat Bot-->
+	<section>
+		<div class="row fixed-bottom chat-section">
+			<div class="col-md-3 offset-md-9">
+				<div class="chat-toggle bg-dark text-width">
+					ALBIS Chat Bot
+				</div>
+				<div class="chat-box" style="display:none">
+					<div class="chat-history bg-success">
+						<div class="chat-item">
+							<div class="sender-name">
+								Faizal
+							</div>
+							<div class="sender-message">
+								Hello
+							</div>
+						</div>
+					</div>
+					<div class="chat-bottom row">
+						<div class="chat-write col-md-7">
+							
+						</div>
+						<div class="chat-send col-md-5">
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
 </body>
