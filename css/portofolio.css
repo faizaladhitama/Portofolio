@@ -9,15 +9,27 @@
 }
 
 .about{
+    margin : 2.7%;
+    padding : 1%;
+    margin-left : 0px;
+}
 
+.about h2{
+    margin-bottom:5%;
 }
 
 section, div{
 	padding-bottom:1%;
 }
 
+h2{
+    margin-top:1%;
+    margin-bottom:1%;
+}
+
 section h3{
 	padding-left:1%;
+    margin-top:1%;
 	cursor:pointer;
 }
 
