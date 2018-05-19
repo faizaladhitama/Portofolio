@@ -61,12 +61,15 @@
 								</li>
 								<li>Scrum</li>
 								<li>Java SE 8</li>
+								<li>C#</li>
+								<li>Erlang</li>
 								<li>JavaScript</li>
 								<li>PHP 7</li>
 								<li>SQL (MySQL, PostgreSQL)</li>
 								<li>Flask</li>
 								<li>ExpressJS</li>
 								<li>NodeJS</li>
+								<li>Cryptography</li>
 							</ul>
 						</div>
 					</div>
@@ -319,7 +322,8 @@
 				<a href="https://medium.com/@faizaladhitama" target="_blank"><img src="assets/img/medium.png" class="img-fluid" alt="Medium" height="42" width="42" /></a>
 				<h6>My Public Repository</h6>
 				<a href="https://github.com/faizaladhitama" target="_blank"><img src="assets/img/github.png" class="img-fluid" height="42" width="42" alt="Github"/></a>
-
+				<h6>Kaggle Account</h6>
+				<a href="https://www.kaggle.com/faizaladhitama" target="_blank"><img src=assets/img/kaggle.png class="img-fluid" height="42" width="42" alt="Kaggle"></a>
 			</div>
 			<div class="col-md-6 col-sm-6">
 				<h4>Contact me</h4>
@@ -338,130 +342,31 @@
 	<section>
 		<div class="row fixed-bottom chat-section">
 			<div class="col-md-3 offset-md-9">
-				<div class="chat-toggle bg-dark text-width">
+				<div class="chat-toggle bg-info">
 					ALBIS Chat Bot
 				</div>
-				<div class="chat-box" style="display:none">
-					<div class="chat-history bg-success">
+				<div class="chat-box bg-white" style="display:none">
+					<div class="chat-history">
 						<div class="chat-item">
 							<div class="sender-name">
-								Faizal
+								ALBIS
 							</div>
 							<div class="sender-message">
-								Hello
-							</div>
-						</div>
-						<div class="chat-item text-right">
-							<div class="sender-name">
-								Faizal
-							</div>
-							<div class="sender-message">
-								Hello namaku xxx
-							</div>
-						</div>
-						<div class="chat-item">
-							<div class="sender-name">
-								Faizal
-							</div>
-							<div class="sender-message">
-								Hello
-							</div>
-						</div>
-						<div class="chat-item text-right">
-							<div class="sender-name">
-								Faizal
-							</div>
-							<div class="sender-message">
-								Hello namaku xxx
-							</div>
-						</div>
-						<div class="chat-item">
-							<div class="sender-name">
-								Faizal
-							</div>
-							<div class="sender-message">
-								Hello
-							</div>
-						</div>
-						<div class="chat-item text-right">
-							<div class="sender-name">
-								Faizal
-							</div>
-							<div class="sender-message">
-								Hello namaku xxx
-							</div>
-						</div>
-						<div class="chat-item">
-							<div class="sender-name">
-								Faizal
-							</div>
-							<div class="sender-message">
-								Hello
-							</div>
-						</div>
-						<div class="chat-item">
-							<div class="sender-name">
-								Faizal
-							</div>
-							<div class="sender-message">
-								Hello
-							</div>
-						</div>
-						<div class="chat-item text-right">
-							<div class="sender-name">
-								Faizal
-							</div>
-							<div class="sender-message">
-								Hello namaku xxx
-							</div>
-						</div>
-						<div class="chat-item">
-							<div class="sender-name">
-								Faizal
-							</div>
-							<div class="sender-message">
-								Hello
-							</div>
-						</div>
-						<div class="chat-item text-right">
-							<div class="sender-name">
-								Faizal
-							</div>
-							<div class="sender-message">
-								Hello namaku xxx
-							</div>
-						</div>
-						<div class="chat-item">
-							<div class="sender-name">
-								Faizal
-							</div>
-							<div class="sender-message">
-								Hello
-							</div>
-						</div>
-						<div class="chat-item text-right">
-							<div class="sender-name">
-								Faizal
-							</div>
-							<div class="sender-message">
-								Hello namaku xxx
-							</div>
-						</div>
-						<div class="chat-item">
-							<div class="sender-name">
-								Faizal
-							</div>
-							<div class="sender-message">
-								Hello
+								AI not ready yet. Coming Soon....
 							</div>
 						</div>
 					</div>
 					<div class="chat-bottom row">
-						<div class="chat-write col-md-7">
-							
+						<div class="chat-write col-md-12">
+							<textarea placeholder="Write anything"></textarea>
 						</div>
-						<div class="chat-send col-md-5">
-							
+					</div>
+					<div class="chat-bottom row">
+						<div class="chat-send col-md-6">
+							<button onclick="send('guest')">Send</button>
+						</div>
+						<div class="chat-send col-md-6">
+							<button onclick="send('ai','dummy')">Latih</button>
 						</div>
 					</div>
 				</div>
