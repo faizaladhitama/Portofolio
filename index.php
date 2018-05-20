@@ -154,7 +154,6 @@
 						<p class="mb-0"></p>
 						<footer class="blockquote-footer">
 							<cite title="Source Title">
-								
 							</cite>
 						</footer>
 					</blockquote>
@@ -181,20 +180,24 @@
 					<li data-target="#demo" data-slide-to="1"></li>
 					<li data-target="#demo" data-slide-to="2"></li>
 					<li data-target="#demo" data-slide-to="3"></li>
+					<li data-target="#demo" data-slide-to="4"></li>
 				</ul>
 
 			    <div class="carousel-inner bg-dark">
-					<div class="carousel-item active">	
-						<img src="assets/img/catur-jawa.png" id="catur-jawa-img" alt="Catur Jawa" witdh="600" height="600" class="img-fluid"/>
+					<div class="carousel-item active">
+						<img src="assets/img/catur-jawa.png" id="catur-jawa-img" alt="Catur Jawa" height="600" class="img-fluid"/>
 					</div>
 					<div class="carousel-item">
-						<img src="assets/img/prima.png" id="prima-img" alt="Prima" witdh="600" height="600" class="img-fluid"/>
-					</div>
-					<div class="carousel-item">	
-						<img src="assets/img/hospital-searcher.png" id="hospital-searcher-img" alt="Hospital Searcher" witdh="600" height="600" class="img-fluid"/>
+						<img src="assets/img/prima.png" id="prima-img" alt="Prima" height="600" class="img-fluid"/>
 					</div>
 					<div class="carousel-item">
-						<img src="assets/img/alarm-bot.png" id="alarm-bot-img" alt="Alarm Bot" witdh="600" height="600" class="img-fluid"/>
+						<img src="assets/img/xts-aes.png" id="xts-aes-img" style="height:600;" alt="XTS-AES" height="600px;" class="img-fluid"/>
+					</div>
+					<div class="carousel-item">
+						<img src="assets/img/hospital-searcher.png" id="hospital-searcher-img" alt="Hospital Searcher" height="600" class="img-fluid"/>
+					</div>
+					<div class="carousel-item">
+						<img src="assets/img/alarm-bot.png" id="alarm-bot-img" alt="Alarm Bot" height="600" class="img-fluid"/>
 					</div>
 				</div>
 
@@ -204,7 +207,7 @@
 				<a class="carousel-control-next text-dark" href="#demo" data-slide="next">
 					<span class="carousel-control-next-icon"></span>
 				</a>
-				
+
 				<!-- The Modal -->
 				<div class="modal" id="catur-jawa-modal">
 					<div class="modal-dialog">
