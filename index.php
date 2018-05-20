@@ -1,5 +1,10 @@
 <!Doctype HTML>
 <head>
+	<meta charset="UTF-8">
+	<meta name="description" content="Faizal Adhitama Prabowo Portofolio Website">
+	<meta name="keywords" content="Faizal Adhitama,Faizal,Faizal Adhitama Prabowo,Faizal Adhitama Prabowo UI,Faizal Adhitama Portofolio,Faizal Adhitama Portofolio Website,Faizal Adhitama Website,Faizal Adhitama Prabowo Website,Faizal Fasilkom,Faizal Adhitama Fasilkom,Faizal Adhitama Prabowo Fasilkom">
+	<meta name="author" content="Faizal Adhitama Prabowo">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 	<script src="js/bootstrap.min.js"></script>
